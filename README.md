@@ -28,6 +28,7 @@ with open("text1.txt","r") as f1:
         f2.write(a)
 ```
 ## OUTPUT:
+![exp 5c op](https://github.com/Vikaash19/copy-file/assets/148514589/e0925ec4-bb02-47d6-92b6-8cd2590c8046)
 
 ### TEXT FILE:
 ![exp 5a tf](https://github.com/Vikaash19/copy-file/assets/148514589/6d5fbc5e-7240-4fb0-a653-7015c602ada3)
